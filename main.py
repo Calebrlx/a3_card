@@ -1,3 +1,13 @@
+#########################################
+# caleb forestal
+# assignment 3
+# april 7 2025
+#
+# this makes uno cards and draws a few random ones
+# input: how many cards to draw
+# output: the cards drawn
+#########################################
+
 import random
 
 # makes the full uno deck
